@@ -4,7 +4,7 @@ A Python implementation of the **Breakthrough** board game featuring a GUI built
 
 ## About the Game
 
-Breakthrough is a two-player abstract strategy board game played on an 8×8 board. Each player starts with 16 pawns occupying the first two rows on their side. Pawns can move one square forward (straight or diagonally), and can capture only diagonally. The first player to reach the opponent's back row — or capture all of their pieces — wins.
+Breakthrough is a two-player strategy board game played on an 8×8 board. Each player starts with 16 pawns occupying the first two rows on their side. Pawns can move one square forward (straight or diagonally), and can capture only diagonally. The first player to reach the opponent's back row — or capture all of their pieces — wins.
 
 - **White (O)** — the human player, moves upward
 - **Black (X)** — the AI opponent, moves downward
